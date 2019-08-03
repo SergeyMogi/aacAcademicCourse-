@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="alcoholDesc">
+        <item >
+            בירה כהה
+        </item>
+        <item >
+            בירה מהחבית
+        </item>
+        <item >
+            בירה בהירה
+        </item>
+        <item >
+            בירה מהחבית
+        </item>
+        <item >
+            בירה כהה
+        </item>
+        <item >
+            בירה כהה לייט
+        </item>
+        <item >
+            בירה לייט
+        </item>
+        <item >
+            בירה מהחבית הישר מהחבית
+        </item>
+        <item >
+            בירה מהחבית היישר מחוץ לחבית
+        </item>
+        <item >
+            חצי בירה כהה חצי בירה בהירה
+        </item>
+    </array>
+
+    <array name="alcoholPrice">
+        <item >
+            10
+        </item>
+        <item >
+            15
+        </item>
+        <item >
+            16
+        </item>
+        <item >
+            15
+        </item>
+        <item >
+            16
+        </item>
+        <item >
+            12
+        </item>
+        <item >
+            10
+        </item>
+        <item >
+            11
+        </item>
+        <item >
+            11
+        </item>
+        <item >
+            10
+        </item>
+    </array>
+
+    <array name="alcoholName">
+        <item >
+            Erdinger
+        </item>
+        <item >
+            Maisiles Wisse
+        </item>
+        <item >
+            Cooles
+        </item>
+        <item >
+            Qanstelma
+        </item>
+        <item >
+            Cobra
+        </item>
+        <item >
+            Erdinger
+        </item>
+        <item >
+            Tuburg
+        </item>
+        <item >
+            Hayniken
+        </item>
+        <item >
+           Blablaginger
+        </item>
+        <item >
+           Bavaria
+        </item>
+    </array>
+
+    <array name="mainDesc">
+        <item >
+            מנה ראשית עם כבד אווז וירקות מגיע במגוון טעמים לבחירה
+        </item>
+        <item >
+            מנה עם צלופחים מוגשת על מצה של דבשת גמל
+        </item>
+        <item >
+            שקדים של ציפור מעורב עם שקדים של טווס
+        </item>
+        <item >
+            שקשוקה מביצים של יען
+        </item>
+        <item >
+            שועל ברוטב סילאן מוגש עם צימיצורי ותפוחי אדמה היישר מהאדמה
+        </item>
+        <item >
+            כנפיים של דרקון מוגש ברוטב צילי וספייסי מיונז
+        </item>
+        <item >
+            מנת הדגל: ביצת דרקון של חאליסי מוגש על מצה של צמות בצבע בלונד
+        </item>
+        <item >
+            מנה קטנה עם מחיר מופקע מוגש עי מלצרית אנטיפטית
+        </item>
+        <item >
+            רגל קרושה של פיראט מוגשת עם רוטב גרררר בצד
+        </item>
+        <item >
+            טורטייה ממולאת בנוצות אווז
+        </item>
+    </array>
+
+    <array name="mainPrice">
+        <item >
+            500
+        </item>
+        <item >
+            15
+        </item>
+        <item >
+            30
+        </item>
+        <item >
+            45
+        </item>
+        <item >
+            50
+        </item>
+        <item >
+            85
+        </item>
+        <item >
+            75
+        </item>
+        <item >
+            25
+        </item>
+        <item >
+            35
+        </item>
+        <item >
+            75
+        </item>
+    </array>
+
+    <array name="mainName">
+        <item >
+            מנה ראשית
+        </item>
+        <item >
+            מנה ראשית
+        </item>
+        <item >
+            מנה ראשית
+        </item>
+        <item >
+            מנה ראשית
+        </item>
+        <item >
+            מנה ראשית
+        </item>
+        <item >
+            מנה מומלצת על ידי השף
+        </item>
+        <item >
+           מנת בניים
+        </item>
+        <item >
+            מנה צמחונית
+        </item>
+        <item >
+            מנה צמחונית
+        </item>
+        <item >
+            מנה צמחונית
+        </item>
+    </array>
+    <array name="coctailDesc">
+        <item >
+            פינה גולדה
+        </item>
+        <item >
+            אנטרה מנסטרה
+        </item>
+        <item >
+            אורגייה על החוף
+        </item>
+        <item >
+             מרי ממחזרת
+        </item>
+        <item >
+            מיסטר גק
+        </item>
+        <item >
+           מרטיני בצל
+        </item>
+        <item >
+            רוטב פיצה עם קצת אלכוהול
+        </item>
+        <item >
+            קקוקטייל קומסי קומסה
+        </item>
+        <item >
+            אלכוהול מיוחד מאוד
+        </item>
+        <item >
+            קלמארי עם גאק דניאלס
+        </item>
+    </array>
+
+    <array name="coctailPrice">
+        <item >
+            120
+        </item>
+        <item >
+            15
+        </item>
+        <item >
+            30
+        </item>
+        <item >
+            45
+        </item>
+        <item >
+            50
+        </item>
+        <item >
+            85
+        </item>
+        <item >
+            75
+        </item>
+        <item >
+            25
+        </item>
+        <item >
+            35
+        </item>
+        <item >
+            75
+        </item>
+    </array>
+
+    <array name="coctailName">
+        <item >
+           קוקטייל 40 אחוז אלכוהול
+        </item>
+        <item >
+            קוקטייל 35 אחוז אלכוהול
+        </item>
+        <item >
+            קוקטייל 40 אחוז אלכוהול
+        </item>
+        <item >
+            קוקטייל 15 אחוז אלכוהול
+        </item>
+        <item >
+            קוקטייל 5 אחוז אלכוהול
+        </item>
+        <item >
+            קוקטייל 20 אחוז אלכוהול
+        </item>
+        <item >
+            קוקטייל 40 אחוז אלכוהול
+        </item>
+        <item >
+            קוקטייל 40 אחוז אלכוהול
+        </item>
+        <item >
+            קוקטייל 0 אחוז אלכוהול
+        </item>
+        <item >
+            קוקטייל 0 אחוז אלכוהול
+        </item>
+    </array>
+
+    <array name="hamburgerDesc">
+        <item >
+           המבורגר קצבים עם נתח פילפילון
+        </item>
+        <item >
+            המבורגר מובחר עם שומן כבש ושומן טלה
+        </item>
+        <item >
+           המבורגר אנטריקות עם ציפס בצד
+        </item>
+        <item >
+           המבורגר עם קצת המבורגר בצד
+        </item>
+        <item >
+           הרבה ציפס עם קצת המבורגר
+        </item>
+        <item >
+           המבורגר מפרה שאכלה מקדונלדס
+        </item>
+        <item >
+           ריב המבורגר עם מוקפץ מקפץ
+        </item>
+        <item >
+          המבורגר טלה
+        </item>
+        <item >
+           מאוד המבורגר מיוחד מאוד
+        </item>
+        <item >
+            המבורגד
+        </item>
+    </array>
+
+    <array name="hamburgerPrice">
+        <item >
+            120
+        </item>
+        <item >
+            15
+        </item>
+        <item >
+            30
+        </item>
+        <item >
+            45
+        </item>
+        <item >
+            50
+        </item>
+        <item >
+            85
+        </item>
+        <item >
+            75
+        </item>
+        <item >
+            25
+        </item>
+        <item >
+            35
+        </item>
+        <item >
+            75
+        </item>
+    </array>
+
+    <array name="hamburgerName">
+        <item >
+            המבורגר 180 גרם
+        </item>
+        <item >
+            המבורגר 200 גרם
+        </item>
+        <item >
+             המבורגר 220 גרם
+        </item>
+        <item >
+            המבורגר 230 גרם
+        </item>
+        <item >
+            המבורגר 250 גרם
+        </item>
+        <item >
+            המבורגר 260 גרם
+        </item>
+        <item >
+            המבורגר 300 גרם
+        </item>
+        <item >
+            המבורגר 310 גרם
+        </item>
+        <item >
+            המבורגר 350 גרם
+        </item>
+        <item >
+            המבורגר
+        </item>
+    </array>
+
+    <array name="hotDrinkDesc">
+        <item >
+            קפוצינו עם סירופ
+        </item>
+        <item >
+            אספרסו
+        </item>
+        <item >
+            הפוך
+        </item>
+        <item >
+            תה עם לימון
+        </item>
+        <item >
+           נס עם קצפת מעל
+        </item>
+        <item >
+            מוקולטה
+        </item>
+        <item >
+           שוקוצינו
+        </item>
+        <item >
+           צאי עם בסיקוויט
+        </item>
+        <item >
+          שוקו
+        </item>
+        <item >
+           קפה שחור
+        </item>
+    </array>
+
+    <array name="hotDrinkPrice">
+        <item >
+            120
+        </item>
+        <item >
+            15
+        </item>
+        <item >
+            30
+        </item>
+        <item >
+            45
+        </item>
+        <item >
+            50
+        </item>
+        <item >
+            85
+        </item>
+        <item >
+            75
+        </item>
+        <item >
+            25
+        </item>
+        <item >
+            35
+        </item>
+        <item >
+            75
+        </item>
+    </array>
+
+    <array name="hotDrinkName">
+        <item >
+            מוגש חם
+        </item>
+        <item >
+            מוגש חם
+        </item>
+        <item >
+            מוגש חם
+        </item>
+        <item >
+            מוגש חם
+        </item>
+        <item >
+            מוגש חם
+        </item>
+        <item >
+            מוגש חם
+        </item>
+        <item >
+            מוגש חם
+        </item>
+        <item >
+            מוגש חם
+        </item>
+        <item >
+            מוגש חם
+        </item>
+        <item >
+            מוגש חם
+        </item>
+    </array>
+    <array name="coldDrinkDesc">
+
+
+        <item >
+            קולה בבקבוק
+        </item>
+        <item >
+            קולה בפחית
+        </item>
+        <item >
+            פאנטה
+        </item>
+        <item >
+            פאנטה בפחית
+        </item>
+        <item >
+            פאנטה ענבים בפחית
+        </item>
+        <item >
+            פפסי קולה
+        </item>
+        <item >
+            סודה
+        </item>
+        <item >
+            ספרייט
+        </item>
+        <item >
+            מים
+        </item>
+        <item >
+            משקה קר
+        </item>
+    </array>
+
+    <array name="coldDrinkPrice">
+        <item >
+            120
+        </item>
+        <item >
+            15
+        </item>
+        <item >
+            30
+        </item>
+        <item >
+            45
+        </item>
+        <item >
+            50
+        </item>
+        <item >
+            85
+        </item>
+        <item >
+            75
+        </item>
+        <item >
+            25
+        </item>
+        <item >
+            35
+        </item>
+        <item >
+            75
+        </item>
+    </array>
+
+    <array name="coldDrinkName">
+        <item >
+            מוגש קר
+        </item>
+        <item >
+            מוגש קר
+        </item>
+        <item >
+            מוגש קר
+        </item>
+        <item >
+            מוגש קר
+        </item>
+        <item >
+            מוגש קר
+        </item>
+        <item >
+            מוגש קר
+        </item>
+        <item >
+            מוגש קר
+        </item>
+        <item >
+            מוגש קר
+        </item>
+        <item >
+            מוגש קר
+        </item>
+        <item >
+            מוגש קר
+        </item>
+    </array>
+
+
+    <array name="namesOfCategory">
+        <item>
+            תפריט קוקטייל
+        </item>
+        <item>
+            תפריט המבורגים
+        </item>
+        <item>
+            תפריט שתיה קרה
+        </item>
+        <item>
+            תפריט שתיה חמה
+        </item>
+        <item>
+            תפריט מנות ראשיות
+        </item>
+        <item>
+            תפריט בירות
+        </item>
+    </array>
+</resources>
